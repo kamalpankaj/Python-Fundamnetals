@@ -15,5 +15,3 @@ print(FirstList)
 # Updating of data using og insert method
 FirstList.insert(2,"Pankaj")
 print(FirstList)
-
-# Use of extend
